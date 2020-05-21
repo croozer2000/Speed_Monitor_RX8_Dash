@@ -1,6 +1,5 @@
 #!/usr/bin/python3
 #
-## cluster_rpm.py
 # 
 # This python3 program sends out CAN data from the PiCAN2 board to a Mazda RX8 instrument cluster.
 # For use with PiCAN boards on the Raspberry Pi
